@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27ea231c9e56d2b4fbd1dbc9978904d3, type: 3}
+  m_Name: SO_ActionItemData_HealPotion
+  m_EditorClassIdentifier: 
+  itemName: Heiltrank
+  itemText: "\u201EDas kann ich jetzt gut gebrauchen!\u201C - Heilen mit [1]."
+  itemSlot: 1
+  itemIcon: {fileID: 2800000, guid: e8f8314b92e6cfc4fa45bf1fdf053eff, type: 3}
+  abilitiesToUnlock:
+  - HealPotion

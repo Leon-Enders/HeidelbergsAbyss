@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4f1387520261dc49b897f6a00cf62f1, type: 3}
+  m_Name: SO_ItemData_Liselotte
+  m_EditorClassIdentifier: 
+  itemName: "Liselotte\u2019s Briefe"
+  itemText: "Liselotte von der Pfalz (1652\u20131722), war eine schillernde Pers\xF6nlichkeit
+    des 17. Jahrhunderts, die als Herzogin von Orl\xE9ans und Schw\xE4gerin von Ludwig
+    XIV. von Frankreich in die Geschichte einging.  Liselotte wurde im Heidelberger
+    Schloss geboren, der Residenz der Kurf\xFCrsten von der Pfalz war. Die Zeit,
+    die Liselotte in Heidelberg verbrachte, pr\xE4gte sie sehr und ihre Liebe zu
+    ihrer Heimat blieb ihr Leben lang bestehen, auch nachdem sie nach Frankreich
+    verheiratet wurde. In ihren zahlreichen Briefen beschrieb sie ihren Verwandten
+    und Freunden detailliert und unverbl\xFCmt vom Leben am Schloss Versailles. Die
+    Verbindung zu ihrem Bruder Karl II. (1651\u20131685), dem letzten regierenden
+    Kurf\xFCrst der Pfalz aus der Linie Pfalz- Simmern, sollte tragische Folgen f\xFCr
+    Heidelberg und sein Schloss nach sich ziehen.  Nachdem er ohne m\xE4nnliche Nachkommen
+    verstarb, entbrannte ein erbitterter Streit um die Nachfolge des Kurf\xFCrstentums.
+    Ludwig XIV. von Frankreich beanspruchte das Erbe, indem er die Rechte seiner
+    Schw\xE4gerin geltend machte. Dies f\xFChrte zu einem verheerenden milit\xE4rischen
+    Konflikt mit dem neuen gew\xE4hlten Kurf\xFCrsten. Der Pf\xE4lzische Erbfolgekrieg
+    (1688\u20131697) brachte immense Zerst\xF6rungen und Leid \xFCber die Region.
+    Heidelberg und das Schloss wurden durch die franz\xF6sischen Truppen schwer besch\xE4digt
+    und weitgehend zerst\xF6rt. Trotz der verheerenden Angriffe und der Zerst\xF6rung
+    k\xE4mpfte Liselotte unerschrocken und mit aller Kraft darum, Heidelberg vor
+    dem v\xF6lligen Untergang zu sch\xFCtzen."

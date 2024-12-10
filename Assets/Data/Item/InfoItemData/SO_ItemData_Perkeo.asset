@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4f1387520261dc49b897f6a00cf62f1, type: 3}
+  m_Name: SO_ItemData_Perkeo
+  m_EditorClassIdentifier: 
+  itemName: "Perkeo, der Fassw\xE4chter"
+  itemText: "In den alten Mauern des Heidelberger Schlosses lebte einst ein Mann,
+    der zur Legende wurde: Perkeo, der kleine H\xFCter des riesigen Weinfasses. Sein
+    richtiger Name war Clemens Pankert \u2013 oder Giovanni Clementi \u2013 doch
+    ganz Heidelberg kannte ihn als Perkeo. Aus S\xFCdtirol kommend, diente er im
+    18. Jahrhundert dem Kurf\xFCrsten Karl III. Philipp. Er war landauf, landab bekannt
+    f\xFCr seinen unersch\xF6pflichen Durst nach Wein und seine stets charmante Antwort
+    auf die Frage nach noch einem Glas: \"Perch\xE9 no?\" \u2013 \"Warum nicht?\" 
+    Perkeo war der humorvolle Hofnarr und W\xE4chter des wohl\_ gr\xF6\xDFten Holzfasses
+    der Welt, das unglaubliche 220.000 Liter Wein fasst. Die Legende besagt, dass
+    er nie Wasser trank \u2013 bis zu einem schicksalhaften Tag, an dem er auf \xE4rztlichen
+    Rat hin ein Glas Wasser probierte. Kurz darauf starb er. Ob' s am Wasser lag?
+    Wer wei\xDF!"

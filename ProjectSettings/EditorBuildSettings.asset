@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/mainmenue-scene.unity
+    guid: d70612a19934c6b449417ad133c10b88
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene00.unity
+    guid: ab4ab7ce8d0c89b429a550eba773ccc0
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene01.unity
+    guid: 29df51a408da31642a05178073f8ecf7
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene02.unity
+    guid: 7dde2908487cea64286275a12d69722f
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene03.unity
+    guid: f6eaa5233f98ce44db54c6901a9e81fe
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene04.unity
+    guid: 85b66261ae0382543ace490a89907572
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene05.unity
+    guid: 04c255ea06deab244bf0880b503a860e
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene06.unity
+    guid: ad4cbada74384f243a01a55f973f5817
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene07.unity
+    guid: 40d425a633f024344bea8d8de5f5403e
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene08.unity
+    guid: 7ebd7d3c53b828c4d8c3c89efb7fb979
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene09.unity
+    guid: 983ad8340e2eb9a4c97fbdc5232a1b26
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene10.unity
+    guid: dfc287dd9ec20354fbedee38b2366e29
+  - enabled: 1
+    path: Assets/Scenes/GameReadyScene/GameScene11.unity
+    guid: 1a9b4c6f54fc93541895f64ee2ab35bc
+  m_configObjects: {}

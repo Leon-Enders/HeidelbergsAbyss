@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5798d0b4b4f59d4418e3a1fc646a5539, type: 3}
+  m_Name: SO_SoundEffect_Player_Slash
+  m_EditorClassIdentifier: 
+  soundClip: {fileID: 8300000, guid: 4c48c3d3ecd5cdc48b8a5eec984f9310, type: 3}
+  volume: 0.454
+  pitch: 1
+  soundDelay: 0.325

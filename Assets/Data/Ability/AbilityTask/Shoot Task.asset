@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8040b769e30db0d48b75e740853e9d83, type: 3}
+  m_Name: Shoot Task
+  m_EditorClassIdentifier: 
+  shootLayer:
+    serializedVersion: 2
+    m_Bits: 456
+  projectile: {fileID: 3209970800780840603, guid: cc74b83a664c0a14d9a93e5a30dac3fe,
+    type: 3}

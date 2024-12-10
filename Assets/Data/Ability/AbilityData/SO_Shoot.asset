@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbf5cd5ad9fec744c9ba66e296d07f44, type: 3}
+  m_Name: SO_Shoot
+  m_EditorClassIdentifier: 
+  abilityName: Shoot
+  oAbilityTask: {fileID: 11400000, guid: 584bf1f61eb70c04792ef4aa4761a3a5, type: 2}
+  abilityAnimationData: {fileID: 11400000, guid: fbee85dd5d757f942a644428ed2afc59,
+    type: 2}
+  abilityVfxData: {fileID: 11400000, guid: cb87bed977859ac4b9a12391744a6e97, type: 2}
+  abilitySoundData: {fileID: 11400000, guid: 6252b05938484d047a85a1e469b9d39d, type: 2}

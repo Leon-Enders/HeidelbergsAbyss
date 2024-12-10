@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4f1387520261dc49b897f6a00cf62f1, type: 3}
+  m_Name: SO_ItemData_RitterSprung
+  m_EditorClassIdentifier: 
+  itemName: Rittersprung
+  itemText: "Hoch \xFCber Heidelberg, auf der majest\xE4tischen Terrasse des Schlosses,
+    die Friedrich V. im fr\xFChen 17. Jahrhundert errichten lie\xDF, hat man einen
+    atemberaubenden Blick auf die Stadt und das Neckartal. Doch diese Terrasse, der
+    sogenannte Altan, birgt auch ein Geheimnis \u2014 den sagenumwobenen \"Rittersprung\".
+    Der Legende nach ereignete sich hier ein spektakul\xE4res Abenteuer. Ein mutiger
+    Ritter, verfolgt von einem erbitterten Rivalen oder gar einem eifers\xFCchtigen
+    Kurf\xFCrsten, fand sich in einer verzweifelten Lage. Die einzige M\xF6glichkeit,
+    seinen Verfolgern zu entkommen, war ein waghalsiger Sprung vom Altan des Schlosses.
+    Mit einem m\xE4chtigen Sto\xDF dr\xFCckte er sich vom Rand der Terrasse ab und
+    hinterlie\xDF dabei einen Abdruck seines Fu\xDFes im harten Stein. Der Abdruck,
+    den man noch heute sehen kann, zeugt von seinem unglaublichen Mut und der verzweifelten
+    Flucht. Seit jenem Tag tr\xE4gt die Stelle den Namen \"Rittersprung\". Es hei\xDFt,
+    derjenige, dessen Fu\xDF exakt in den Abdruck passt, w\xFCrde jenen Mut des Ritters
+    erben. Die Spur, tief in den Stein des Altans eingepr\xE4gt, wirkt wie das ewige
+    Echo eines Sprunges, der in die Geschichte einging."
